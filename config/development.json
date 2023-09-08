@@ -1,0 +1,8 @@
+{
+    "env": "development",
+    "logLevel": 10,
+    "url": "http://localhost",
+    "port": 5000,
+    "jwt": "1234567890",
+    "email": "vishnu.moger@infiquity.com"
+}
